@@ -6,7 +6,7 @@ Demo Video: https://www.youtube.com/watch?v=6ipWNKoLJ-U
 
 I made the project with Nextjs, Typescript, Javascript, Tailwind, MongoDB.
 
-<img width="761" height="1024" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/e5ae57b6-aa2c-4abd-a434-b430fa407466" />
+<img width="500" height="1024" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/e5ae57b6-aa2c-4abd-a434-b430fa407466" />
 
 ---
 
