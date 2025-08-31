@@ -6,8 +6,6 @@ Demo Video: https://www.youtube.com/watch?v=6ipWNKoLJ-U
 
 I made the project with Nextjs, Typescript, Javascript, Tailwind, MongoDB.
 
-Something I struggled with while creating this project was to create different access levels, since I haven't done that before, and I've been able to complete it, though.
-
 ---
 
 ## Features
