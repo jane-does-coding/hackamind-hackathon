@@ -6,7 +6,7 @@ Demo Video: https://www.youtube.com/watch?v=6ipWNKoLJ-U
 
 I made the project with Nextjs, Typescript, Javascript, Tailwind, MongoDB.
 
-Something I struggled with while creating this project was to create different access levels, since I haven't done that before, and I've been able to complete it, though. 
+Something I struggled with while creating this project was to create different access levels, since I haven't done that before, and I've been able to complete it, though.
 
 ---
 
@@ -97,6 +97,3 @@ npx prisma generate
 ```bash
 npm run dev
 ```
-
-
-[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
